@@ -1,1 +1,1 @@
-# NotionImageHost
+# notion-image-host
